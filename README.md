@@ -1,4 +1,4 @@
-# School-Management-System
+# NISH's LMS
 Final Project on School Management System by Musroor Ur Rehman at Contour Software Islamabad's MERN 06 Bootcamp.
 
 School Management System
